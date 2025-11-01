@@ -274,9 +274,6 @@ const BlogGrid: React.FC = () => {
             <p className="text-sm text-gray-600">
               © 2025 Viktor.ai Blog
             </p>
-            <div className="flex items-center gap-6 text-sm text-gray-500">
-              <span className="font-medium">Made by: Nimesh</span>
-            </div>
           </div>
         </div>
       </footer>
