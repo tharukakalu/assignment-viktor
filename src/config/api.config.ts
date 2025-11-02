@@ -1,7 +1,3 @@
-/**
- * API Configuration
- * The API URL is loaded from environment variables to avoid hardcoding
- */
 
 const getApiBaseUrl = (): string => {
   // Check for environment variable
